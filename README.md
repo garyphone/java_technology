@@ -7,3 +7,5 @@
 ## 第3单元 [面对对象编程的概念和原理](/chapters/c3.md)
 
 ## 第4单元 [Java语言入门](/chapters/c4.md)
+
+## 第5单元 [第一个Java类](/chapters/c5.md)
