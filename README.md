@@ -9,3 +9,5 @@
 ## 第4单元 [Java语言入门](/chapters/c4.md)
 
 ## 第5单元 [第一个Java类](/chapters/c5.md)
+
+## 第6单元 [向一个Java类添加行为](/chapters/c6.md)
