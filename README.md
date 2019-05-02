@@ -13,3 +13,5 @@
 ## 第6单元 [向一个Java类添加行为](/chapters/c6.md)
 
 ## 第7单元 [字符串和运算符](/chapters/c7.md)
+
+## 第8单元：[条件运算符和控制语句](/chapters/c8.md)
