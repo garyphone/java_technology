@@ -11,3 +11,5 @@
 ## 第5单元 [第一个Java类](/chapters/c5.md)
 
 ## 第6单元 [向一个Java类添加行为](/chapters/c6.md)
+
+## 第7单元 [字符串和运算符](/chapters/c7.md)
