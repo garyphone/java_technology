@@ -14,6 +14,8 @@
 
 ## 第7单元 [字符串和运算符](/chapters/c7.md)
 
-## 第8单元：[条件运算符和控制语句](/chapters/c8.md)
+## 第8单元 [条件运算符和控制语句](/chapters/c8.md)
 
-## 第9单元：[循环](/chapters/c9.md)
+## 第9单元 [循环](/chapters/c9.md)
+
+## 第10单元 [Java集合](/chapters/c10.md)
